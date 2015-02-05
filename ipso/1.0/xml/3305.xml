@@ -76,7 +76,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>Wh</Units>
+				<Units>W.h</Units>
 				<Description>
 					<![CDATA[The cumulative active power since the last cumulative energy reset or device
 					start]]>
@@ -104,7 +104,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VAR</Units>
+				<Units>V.A{reactive}</Units>
 				<Description><![CDATA[The current reactive power]]></Description>
 			</Item>
 			<Item ID="5811">
@@ -115,7 +115,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VAR</Units>
+				<Units>V.A{reactive}</Units>
 				<Description><![CDATA[The minimum reactive power measured by the sensor since it is ON]]></Description>
 			</Item>
 			<Item ID="5812">
@@ -126,7 +126,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VAR</Units>
+				<Units>V.A{reactive}</Units>
 				<Description><![CDATA[The maximum reactive power measured by the sensor since it is ON]]></Description>
 			</Item>
 			<Item ID="5813">
@@ -137,7 +137,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VAR</Units>
+				<Units>V.A{reactive}</Units>
 				<Description><![CDATA[The minimum active power that can be measured by the sensor]]></Description>
 			</Item>
 			<Item ID="5814">
@@ -148,7 +148,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VAR</Units>
+				<Units>V.A{reactive}</Units>
 				<Description><![CDATA[The maximum reactive power that can be measured by the sensor]]></Description>
 			</Item>
 			<Item ID="5815">
@@ -159,7 +159,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VARh</Units>
+				<Units>V.A{reactive}h</Units>
 				<Description>
 					<![CDATA[The cumulative reactive power since the last cumulative energy reset or device
 					start]]>
@@ -173,7 +173,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>VAR</Units>
+				<Units>V.A{reactive}</Units>
 				<Description>
 					<![CDATA[Request a reactive power calibration by writing the value of a calibrated
 					load.]]>

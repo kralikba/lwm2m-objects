@@ -51,7 +51,7 @@
 				<Mandatory>Optional</Mandatory>
 				<Type>Float</Type>
 				<RangeEnumeration>0-360</RangeEnumeration>
-				<Units>Deg</Units>
+				<Units>deg</Units>
 				<Description><![CDATA[The compass direction]]></Description>
 			</Item>
 			<Item ID="5701">

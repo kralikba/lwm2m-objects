@@ -48,7 +48,7 @@
 				<Type>Integer</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>sec</Units>
+				<Units>s</Units>
 				<Description>
 					<![CDATA[The time in seconds that the power relay has been on. Writing a value of
 					0 resets the counter.]]>
@@ -62,7 +62,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>Wh</Units>
+				<Units>W.h</Units>
 				<Description><![CDATA[The total power in Wh that has been used by the load.]]></Description>
 			</Item>
 			<Item ID="5820">

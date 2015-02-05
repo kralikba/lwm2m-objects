@@ -46,7 +46,7 @@
 				<Type>Integer</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>sec</Units>
+				<Units>s</Units>
 				<Description>
 					<![CDATA[The time in seconds that the device has been on. Writing a value of 0 resets
 					the counter.]]>

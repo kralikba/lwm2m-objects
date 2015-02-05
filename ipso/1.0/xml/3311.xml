@@ -49,7 +49,7 @@
 				<Type>Integer</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>sec</Units>
+				<Units>s</Units>
 				<Description>
 					<![CDATA[The time in seconds that the light has been on. Writing a value of 0 resets
 					the counter.]]>
@@ -63,7 +63,7 @@
 				<Type>Float</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>Wh</Units>
+				<Units>W.h</Units>
 				<Description><![CDATA[The total power in Wh that the light has used.]]></Description>
 			</Item>
 			<Item ID="5820">

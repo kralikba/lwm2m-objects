@@ -43,7 +43,7 @@
 				<Type>String</Type>
 				<RangeEnumeration>
 				</RangeEnumeration>
-				<Units>Min</Units>
+				<Units>min</Units>
 				<Description><![CDATA[The duration of the load control event.]]></Description>
 			</Item>
 			<Item ID="5826">
